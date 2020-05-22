@@ -1,0 +1,34 @@
+{
+  "name": "choukai",
+  "version": "0.0.0",
+  "description": "Minimal but flexible Lavalink API wrapper.",
+  "main": "./lib/index.js",
+  "scripts": {
+    "lint": "xo 'src/**/*.ts'",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "xo": {
+    "space": true,
+    "rules": {
+      "max-params": "off",
+      "unicorn/filename-case": "off",
+      "@typescript-eslint/restrict-template-expressions": "off",
+      "@typescript-eslint/promise-function-async": ["error", { "checkMethodDeclarations": false }]
+    }
+  },
+  "keywords": [
+    "lavalink", "websocket", "ws",
+    "discord", "voice", "api",
+    "rest"
+  ],
+  "author": "takase1121",
+  "license": "ISC",
+  "dependencies": {
+    "ws": "^7.3.0"
+  },
+  "devDependencies": {
+    "@types/ws": "^7.2.4",
+    "typescript": "^3.9.3",
+    "xo": "^0.30.0"
+  }
+}
