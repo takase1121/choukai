@@ -1,4 +1,4 @@
-# Choukai
+# zuihou
 
 Minimal but flexible Lavalink API wrapper.
 
@@ -28,11 +28,5 @@ With that said, you are welcomed to ask in Github Issues. You can also ask in [t
 Always welcomed. I am a student so I don't have time for everything. PRs are always welcomed. Make sure your PR makes sense, unlike [_some_](https://github.com/Deivu/Shoukaku/pull/11).
 
 
-### Why is this wrapper named Choukai?
-Because someone on Discord told me to name it Zuikaku. Zuikaku was taken.
-
-I then tried to name it Naka but it was taken on npm so I called it Choukai instead.
-
-Choukai literally means "Sea of Birds"(??? Well I am Chinese and it sure looks like it, but this is intended to be Japanese).
-
-Yes, I heard you it is a [ship](https://en.wikipedia.org/wiki/Japanese_cruiser_Ch%C5%8Dkai)[(girl)](https://kancolle.fandom.com/wiki/Choukai) and that is up to your intepretation. I suck at naming things so please don't blame me.
+### Is this a ship(girl)?
+That is up to your intepretation. I prefer the shipgirl version though.

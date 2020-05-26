@@ -1,5 +1,5 @@
 {
-  "name": "choukai",
+  "name": "zuihou",
   "version": "0.0.0",
   "description": "Minimal but flexible Lavalink API wrapper.",
   "main": "./lib/index.js",
