@@ -29,6 +29,6 @@
   "devDependencies": {
     "@types/ws": "^7.2.4",
     "typescript": "^3.9.3",
-    "xo": "^0.52.3"
+    "xo": "^0.54.1"
   }
 }
