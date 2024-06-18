@@ -24,7 +24,7 @@
   "author": "takase1121",
   "license": "ISC",
   "dependencies": {
-    "ws": "^7.4.6"
+    "ws": "^7.5.10"
   },
   "devDependencies": {
     "@types/ws": "^7.2.4",
